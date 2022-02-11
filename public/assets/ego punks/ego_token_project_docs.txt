@@ -1,0 +1,81 @@
+WhitePaper (Project Name:The Ego World)
+
+Website: Theegoworld.net
+Discord: 
+Twitter: @TheEgoWorld
+Collection Name : Alter Ego Hunters
+Supply : 10,000
+About :  The Alter Ego Hunters is a collection with a total supply of 10,000 NFTs integrated with the Avalanche blockchain. The collection consist of 16,000 Hu-Hunters, 2,000 Zombie Hunters & 2,000 Vampires.
+
+△ Story
+
+The earth orbited into a wormhole and traveled back in time. The year we in is 1500 and only 20,000 beins survived this event. 16,000 Punks (8,000 Hunters and 8,000 Huntresses) have now turned into huntmans by default because their revisting a time in their past lives. 2,000 zombies emerged from the dead. 2,000 vampires that been around since before 1500 B.C have also survived. the population is broken down into 5 crews containing 4,000 hunters each, 2,000 zombies and 2,000 vampires.
+
+Hunters = Huntsman 
+Zombies = Stalkers
+Vampires = Predators 
+
+△ RoadMap
+
+Q1 : Arts Creation, Website Launch, Community Build, Minting Launch, $EGO Token Release, Staking Dapp Launch.
+Q2 : NFT Marketplace Launch, Token Farm
+Q3 : P2E Game Launch, Merch Marketplace Launch
+Q4 : Alter Ego Huntresses & TBD 
+       
+△ Tokenomics ($EGO)
+   	Token Symbol : $EGO
+Total Supply : 55,550,000
+	Price : $0.01 USD
+	
+	Private Sale | 1% is for the farm participents.
+	Team | 10%
+	Liquidity | 2% of the token liqidity will be attached to the NFT public sale.
+        Farm | 72.75%
+        Staking Events | 15%
+        Public Events |.25%
+       
+△Farming
+The amount of $EGO earned is estimated based on the current emission rate, % of liquidity pool held. $EGO token price and an investment of $1,000 worth of $EGO.
+
+1 Day | ROI = 10 $EGO
+30 Days | ROI = 300 $EGO
+365 Days | ROI = 3,650 $EGO
+
+△ Staking
+Each NFT holder will be able to stake with boosted rates seperate from the farm in cycles. Each cycle will be a 1 week event. 
+
+
+△ Minting
+	
+	Collection Name : Alter Ego Hunters
+	NFT Name : Hunters
+NFT Total Supply : 10,000
+	Airdrop Supply: 1,000 Alter Ego Hunters To Alter Ego Punk Holders
+	Price: 1.5 AVAX
+	   1- 3000 : 1 Avax (Presale)
+          3,001-9,000 $EGO in 1.5 AVAX (Public Offering)
+           9001-10,000 (Airdrop to Alter Ego Punk holders)
+
+△Presale
+1 AVAX = 1 Mint
+3000 NFTs will be available. 2,900 Huntsman, 50 zombies, 50 vampires.
+
+△Public Sale
+150 $EGO TOKEN = 1 Mint. 
+6,000 NFTs will be available. 4,000 Huntsman, 750 Zombies, 750 vampires.
+
+△Airdrop
+800 Huntsman, 100 Zombies, 100 vampires will be airdropped to Alter Ego Punk holders. 
+
+
+△ NFT MarketPlace
+	Marketplace Name : The Ego World
+	Maintenance Fee : 1% from each transaction fee will burn $EGO.
+ All the fees generatred will be delated to the pool.
+
+△ Play To Earn Game
+Name : Ego World
+Maintenance Fee : 1% from each transaction fee will burn $EGO.
+All the fees generated will be delegated to the pool.
+
+When the total distribution of $EGO token has taken place, Layer 2 will be initiated.
